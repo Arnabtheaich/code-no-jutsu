@@ -1,0 +1,22 @@
+import random
+
+def random_ninja_name():
+    adjectives = [
+        "Silent", "Swift", "Shadow", "Crimson", "Fierce", "Dark", "Stealthy", "Ghostly",
+        "Lightning", "Storm", "Iron", "Blazing", "Frozen", "Viper", "Thunder", "Mystic"
+    ]
+    
+    nouns = [
+        "Tiger", "Wolf", "Dragon", "Fox", "Panther", "Serpent", "Falcon", "Raven",
+        "Blade", "Fang", "Storm", "Shadow", "Claw", "Ninja", "Samurai", "Ronin"
+    ]
+    
+    adj = random.choice(adjectives)
+    noun = random.choice(nouns)
+    
+    return f"{adj} {noun}"
+
+# Generate and print a ninja name
+if __name__ == "__main__":
+    name = random_ninja_name()
+    print("Your ninja name is:", name)
