@@ -30,5 +30,28 @@ Think of this as:
 
 ---
 
-## 📁 Folder Structure
+
+---
+
+## 🌟 Contributions?
+
+This repo is primarily for personal growth and creative practice, but if you vibe with the spirit of Code no Jutsu — feel free to fork or suggest ideas in [Issues](https://github.com/arnabtheaich/code-no-jutsu/issues).  
+Who knows? We might even create a jutsu together.
+
+---
+
+## 🥷 Why the name?
+
+Inspired by the anime world (especially Naruto), "no Jutsu" means "technique" — and this repo is my scroll of coding techniques. Code. No. Jutsu.
+
+---
+
+## 📜 License
+
+MIT License. Feel free to reuse and remix.
+
+---
+
+> *"A ninja must see through deception. A coder must debug the illusion."*  
+> — probably me
 
