@@ -1,57 +1,72 @@
-# 🌀 Code no Jutsu
+<h1 align="center">
+  🌀 <code-no-jutsu> Code no Jutsu </code-no-jutsu>
+</h1>
 
-A collection of 5 to 10-minute fun coding techniques & hacks, mastered one snippet at a time.  
-From silly scripts to smart shortcuts — welcome to the ninja dojo of dev creativity.
+<p align="center">
+  <img src="https://media.tenor.com/FNbnfpmVv9kAAAAC/naruto-jutsu.gif" width="240" alt="Ninja Jutsu Animation">
+</p>
+
+<p align="center">
+  <em>A scroll of 5 to 10-minute fun coding techniques & hacks,<br>
+  mastered one snippet at a time in true shinobi style.</em>
+</p>
 
 ---
 
 ## ⚡ What is this?
 
-**Code no Jutsu** is a personal micro-project repository where I regularly contribute small, fun, and experimental Python (or other language) code snippets. These aren’t full-blown apps — they’re fast, funky, and sometimes just for laughs.
+**Code no Jutsu** is my personal dojo of bite-sized projects — a collection of small but creative scripts and ideas that spark joy, curiosity, or mischief. They're fast, funky, and sometimes just for laughs.
 
 Think of this as:
-- 🧠 Brain warm-ups
-- 🧪 Rapid experiments
-- 🎨 Creative coding doodles
-- 🔥 Mini tools with big energy
+- 🧠 Brain warm-ups  
+- 🧪 Rapid-fire experiments  
+- 🎨 Creative coding doodles  
+- 🔥 Tiny tools with unexpected energy  
+
+> Inspired by anime vibes.
 
 ---
 
-## 🧰 Technologies & Themes
+## 🧰 Tech & Themes
 
-- 🐍 Python (main language)
-- 📦 Streamlit / Flask (for mini web UIs)
-- 🖼️ PIL / OpenCV / Matplotlib (image & plot fun)
-- 💻 Shell & automation scripts
-- 🎵 Beat & music-related code
-- 🎮 Game-inspired scripts
-- 📜 Poetic or lyrical logic challenges
-- 🎙️ Hiphop-coded expressions
+- 🐍 **Python** (core)
+- ⚔️ **Streamlit / Flask** (for ninja UIs)
+- 🖼️ **PIL / OpenCV / Matplotlib** (visual trickery)
+- 🔊 **Music tools** (because every shinobi needs rhythm)
+- 🎮 **Game-inspired hacks**
+- 💻 **Terminal tools and automation**
 
 ---
 
+## 🤝 Contributions?
+
+This is a personal playground, but the gates to the Hidden Code Village are open.  
+Found a bug? Got a cool mini-project idea?  
+Create an [Issue](https://github.com/arnabtheaich/code-no-jutsu/issues) or open a PR with your own jutsu.
 
 ---
 
-## 🌟 Contributions?
+## 🥷 Why the Name?
 
-This repo is primarily for personal growth and creative practice, but if you vibe with the spirit of Code no Jutsu — feel free to fork or suggest ideas in [Issues](https://github.com/arnabtheaich/code-no-jutsu/issues).  
-Who knows? We might even create a jutsu together.
+> *"no Jutsu"* (の術) means “technique” in Japanese.  
+> Every snippet here is a new coding jutsu — short, sharp, and full of creative chakra.
 
----
-
-## 🥷 Why the name?
-
-Inspired by the anime world (especially Naruto), "no Jutsu" means "technique" — and this repo is my scroll of coding techniques. Code. No. Jutsu.
+We’re just programmers casting spells on logic.
 
 ---
 
 ## 📜 License
 
-MIT License. Feel free to reuse and remix.
+MIT License. Feel free to clone, remix, and master your own techniques.
 
 ---
 
-> *"A ninja must see through deception. A coder must debug the illusion."*  
-> — probably me
+<blockquote align="center">
+  <em>"A ninja must see through deception.<br>
+  A coder must debug the illusion."</em><br>
+  — probably me
+</blockquote>
 
+<p align="center">
+  <img src="https://media.tenor.com/JBO7MiQOPUkAAAAC/kakashi-anime.gif" width="200" alt="Kakashi approving">
+</p>
