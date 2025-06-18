@@ -1,0 +1,25 @@
+import json
+import pandas as pd
+students=[]
+
+def add_new():
+  name1= (input("enter the name "))
+  roll1=int(input("enter your roll "))
+  subject1=(input("enter your subject "))
+  info={}
+  info['name']=name1
+  info['roll']=roll1
+  info['subject']=subject1
+  students.append(info)
+
+  print(students)
+while True:
+  more=input("do you want to add student? ")
+  if more=="y":
+    add_new()
+  else:
+    print("thank you")
+    print("here is the whole dataset\n", pd.DataFrame(students))
+    break
+with open("data.json","w") as f:
+  json.dump(students,f,indent=4)
