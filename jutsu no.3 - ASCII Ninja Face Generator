@@ -1,0 +1,19 @@
+import random
+
+ninja_faces = [
+    "(¬‿¬)   # Sneaky Ninja",
+    "(╯°□°）╯︵ ┻━┻   # Angry Ninja",
+    "(⌐■_■)   # Cool Ninja",
+    "(>‿◠)✌   # Peaceful Ninja",
+    "(▀̿Ĺ̯▀̿ ̿)   # Serious Ninja",
+    "(ง •̀_•́)ง   # Ready to Fight Ninja",
+    "ʕ•ᴥ•ʔ   # Disguised Ninja (bear mask?)",
+    "(づ｡◕‿‿◕｡)づ   # Hug Ninja"
+]
+
+def summon_ninja():
+    face = random.choice(ninja_faces)
+    print("🌀 Ninja Summoned!\n" + face)
+
+# Run the ninja generator
+summon_ninja()
